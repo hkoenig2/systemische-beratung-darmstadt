@@ -5,43 +5,9 @@
 
 	
 	<url>
-	<loc>http://localhost/404.html</loc>
+	<loc>https://github.com/hkoenig2/systemische-beratung-darmstadt/404.html</loc>
 	
-		<lastmod>2026-01-06T15:30:41+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost/anne/</loc>
-	
-		<lastmod>2026-01-06T15:30:41+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost/einrichtungen/</loc>
-	
-		<lastmod>2026-01-06T15:30:41+01:00</lastmod>
+		<lastmod>2026-01-06T15:47:41+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -54,114 +20,9 @@
 
 	
 	<url>
-	<loc>http://localhost/fallberatung/</loc>
+	<loc>https://github.com/hkoenig2/systemische-beratung-darmstadt/anne/</loc>
 	
-		<lastmod>2026-01-06T15:30:41+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost/hanna/</loc>
-	
-		<lastmod>2026-01-06T15:30:41+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost/humans.txt</loc>
-	
-		<lastmod>2026-01-06T15:30:41+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost/impressum/</loc>
-	
-		<lastmod>2026-01-06T15:30:41+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost/</loc>
-	
-		<lastmod>2026-01-06T15:30:41+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost/kontakt/</loc>
-	
-		<lastmod>2026-01-06T15:30:41+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost/privatpersonen/</loc>
-	
-		<lastmod>2026-01-06T15:30:41+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost/robots.txt</loc>
-	
-		<lastmod>2026-01-06T15:30:41+01:00</lastmod>
+		<lastmod>2026-01-06T15:47:41+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -178,9 +39,148 @@
 
 	
 	<url>
-	<loc>http://localhost/sitemap.xml</loc>
+	<loc>https://github.com/hkoenig2/systemische-beratung-darmstadt/einrichtungen/</loc>
 	
-		<lastmod>2026-01-06T15:30:41+01:00</lastmod>
+		<lastmod>2026-01-06T15:47:41+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://github.com/hkoenig2/systemische-beratung-darmstadt/fallberatung/</loc>
+	
+		<lastmod>2026-01-06T15:47:41+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://github.com/hkoenig2/systemische-beratung-darmstadt/hanna/</loc>
+	
+		<lastmod>2026-01-06T15:47:41+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://github.com/hkoenig2/systemische-beratung-darmstadt/humans.txt</loc>
+	
+		<lastmod>2026-01-06T15:47:41+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://github.com/hkoenig2/systemische-beratung-darmstadt/impressum/</loc>
+	
+		<lastmod>2026-01-06T15:47:41+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://github.com/hkoenig2/systemische-beratung-darmstadt/</loc>
+	
+		<lastmod>2026-01-06T15:47:41+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://github.com/hkoenig2/systemische-beratung-darmstadt/kontakt/</loc>
+	
+		<lastmod>2026-01-06T15:47:41+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://github.com/hkoenig2/systemische-beratung-darmstadt/privatpersonen/</loc>
+	
+		<lastmod>2026-01-06T15:47:41+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://github.com/hkoenig2/systemische-beratung-darmstadt/robots.txt</loc>
+	
+		<lastmod>2026-01-06T15:47:41+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>https://github.com/hkoenig2/systemische-beratung-darmstadt/sitemap.xml</loc>
+	
+		<lastmod>2026-01-06T15:47:41+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -195,9 +195,9 @@
 
 	
 	<url>
-	<loc>http://localhost/ueberuns/</loc>
+	<loc>https://github.com/hkoenig2/systemische-beratung-darmstadt/ueberuns/</loc>
 	
-		<lastmod>2026-01-06T15:30:41+01:00</lastmod>
+		<lastmod>2026-01-06T15:47:41+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
