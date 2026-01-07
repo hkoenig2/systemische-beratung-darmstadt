@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Atom Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="https://hkoenig2.github.io/systemische-beratung-darmstadt/assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="/systemische-beratung-darmstadt/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="https://hkoenig2.github.io/systemische-beratung-darmstadt/assets/js/modernizr.min.js"></script>
+	<script src="/systemische-beratung-darmstadt/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -37,13 +37,13 @@
 	
 	
 	
-	<link rel="canonical" href="https://hkoenig2.github.io/systemische-beratung-darmstadt/assets/xslt/atom.xslt">
+	<link rel="canonical" href="/systemische-beratung-darmstadt/assets/xslt/atom.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
 	<meta property="og:description" content="Systemische Beratung in Darmstadt für Privatpersonen und Bildungseinrichtungen">
-	<meta property="og:url" content="https://hkoenig2.github.io/systemische-beratung-darmstadt/assets/xslt/atom.xslt">
+	<meta property="og:url" content="/systemische-beratung-darmstadt/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Systemische Beratung Darmstadt">
@@ -53,34 +53,34 @@
 
 	
 
-	<link type="text/plain" rel="author" href="https://hkoenig2.github.io/systemische-beratung-darmstadt/humans.txt">
+	<link type="text/plain" rel="author" href="/systemische-beratung-darmstadt/humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="https://hkoenig2.github.io/systemische-beratung-darmstadt/assets/img/icon.png">
+	<link rel="icon" sizes="32x32" href="/systemische-beratung-darmstadt/assets/img/icon.png">
 
-	<link rel="icon" sizes="192x192" href="https://hkoenig2.github.io/systemische-beratung-darmstadt/assets/img/icon.png">
+	<link rel="icon" sizes="192x192" href="/systemische-beratung-darmstadt/assets/img/icon.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://hkoenig2.github.io/systemische-beratung-darmstadt/assets/img/icon.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/systemische-beratung-darmstadt/assets/img/icon.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://hkoenig2.github.io/systemische-beratung-darmstadt/assets/img/icon.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/systemische-beratung-darmstadt/assets/img/icon.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://hkoenig2.github.io/systemische-beratung-darmstadt/assets/img/icon.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/systemische-beratung-darmstadt/assets/img/icon.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://hkoenig2.github.io/systemische-beratung-darmstadt/assets/img/icon.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/systemische-beratung-darmstadt/assets/img/icon.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://hkoenig2.github.io/systemische-beratung-darmstadt/assets/img/icon.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/systemische-beratung-darmstadt/assets/img/icon.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://hkoenig2.github.io/systemische-beratung-darmstadt/assets/img/icon.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/systemische-beratung-darmstadt/assets/img/icon.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://hkoenig2.github.io/systemische-beratung-darmstadt/assets/img/icon.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/systemische-beratung-darmstadt/assets/img/icon.png">
 
-	<link rel="apple-touch-icon-precomposed" href="https://hkoenig2.github.io/systemische-beratung-darmstadt/assets/img/icon.png">	
+	<link rel="apple-touch-icon-precomposed" href="/systemische-beratung-darmstadt/assets/img/icon.png">	
 
-	<meta name="msapplication-TileImage" content="https://hkoenig2.github.io/systemische-beratung-darmstadt/assets/img/icon.png">
+	<meta name="msapplication-TileImage" content="/systemische-beratung-darmstadt/assets/img/icon.png">
 
 	<meta name="msapplication-TileColor" content="#fabb00">
 
@@ -99,7 +99,7 @@
   <nav class="top-bar" role="navigation" data-topbar data-options="scrolltop: false">
     <ul class="title-area">
       <li class="name">
-      <h1 class="hide-for-large-up"><a href="https://hkoenig2.github.io/systemische-beratung-darmstadt" class="icon-tree"> Systemische Beratung Darmstadt</a></h1>
+      <h1 class="hide-for-large-up"><a href="/systemische-beratung-darmstadt" class="icon-tree"> Systemische Beratung Darmstadt</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar toggle-topbar-click menu-icon"><a><span>Nav</span></a></li>
@@ -116,7 +116,37 @@
 
             
             
-              <li><a  href="https://hkoenig2.github.io/systemische-beratung-darmstadt/">Start</a></li>
+              <li><a  href="/systemische-beratung-darmstadt/">Home</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="/systemische-beratung-darmstadt/privatpersonen/">Privatpersonen</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="/systemische-beratung-darmstadt/einrichtungen/">Bildungseinrichtungen</a></li>
               <li class="divider"></li>
 
             
@@ -133,14 +163,19 @@
             
 
               <li class="has-dropdown">
-                <a  href="https://hkoenig2.github.io/systemische-beratung-darmstadt/einrichtungen/">Bildungseinrichtungen</a>
+                <a  href="/systemische-beratung-darmstadt/info/">Über uns</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://hkoenig2.github.io/systemische-beratung-darmstadt/fallberatung/">Systemische Fallberatung</a></li>
+                      <li><a  href="/systemische-beratung-darmstadt/hanna/">Hanna König</a></li>
+                    
+
+                      
+
+                      <li><a  href="/systemische-beratung-darmstadt/anne/">Anne Korbach</a></li>
                     
                   </ul>
 
@@ -157,41 +192,10 @@
 
             
             
-              <li><a  href="https://hkoenig2.github.io/systemische-beratung-darmstadt/privatpersonen/">Privatpersonen</a></li>
+              <li><a  href="/systemische-beratung-darmstadt/kosten/">Kosten</a></li>
               <li class="divider"></li>
 
             
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-
-              <li class="has-dropdown">
-                <a  href="https://hkoenig2.github.io/systemische-beratung-darmstadt/ueberuns/">Über uns</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a  href="https://hkoenig2.github.io/systemische-beratung-darmstadt/hanna/">Hanna König</a></li>
-                    
-
-                      
-
-                      <li><a  href="https://hkoenig2.github.io/systemische-beratung-darmstadt/anne/">Anne Korbach</a></li>
-                    
-                  </ul>
-
-              </li>
-              <li class="divider"></li>
             
           
         
@@ -247,10 +251,18 @@
 
           
           
+        
+
+              
+
+
+
+          
+          
             
             
               <li class="divider"></li>
-              <li><a  href="https://hkoenig2.github.io/systemische-beratung-darmstadt/kontakt/">Kontakt</a></li>
+              <li><a  href="/systemische-beratung-darmstadt/kontakt/">Kontakt</a></li>
 
             
             
@@ -268,8 +280,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="https://hkoenig2.github.io/systemische-beratung-darmstadt/" title="Systemische Beratung Darmstadt – Herausforderungen systemisch angehen und meistern">
-				<img src="https://hkoenig2.github.io/systemische-beratung-darmstadt/assets/img/logo.png" alt="Systemische Beratung Darmstadt – Herausforderungen systemisch angehen und meistern">
+			<a id="logo" href="/systemische-beratung-darmstadt/" title="Systemische Beratung Darmstadt – Herausforderungen systemisch angehen und meistern">
+				<img src="/systemische-beratung-darmstadt/assets/img/logo.png" alt="Systemische Beratung Darmstadt – Herausforderungen systemisch angehen und meistern">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -347,7 +359,7 @@
 
             <p class="shadow-black">
               Systemische Beratung in Darmstadt für Privatpersonen und Bildungseinrichtungen
-              <a href="https://hkoenig2.github.io/systemische-beratung-darmstadt/info/">More ›</a>
+              <a href="/systemische-beratung-darmstadt/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -369,22 +381,22 @@
               
                 
                   <li >
-                    <a href="https://hkoenig2.github.io/systemische-beratung-darmstadt"  title=""></a>
+                    <a href="/systemische-beratung-darmstadt"  title=""></a>
                   </li>
               
                 
                   <li >
-                    <a href="https://hkoenig2.github.io/systemische-beratung-darmstadt/kontakt/"  title="Kontakt">Kontakt</a>
+                    <a href="/systemische-beratung-darmstadt/kontakt/"  title="Kontakt">Kontakt</a>
                   </li>
               
                 
                   <li >
-                    <a href="https://hkoenig2.github.io/systemische-beratung-darmstadt/impressum/"  title="Impressum">Impressum</a>
+                    <a href="/systemische-beratung-darmstadt/impressum/"  title="Impressum">Impressum</a>
                   </li>
               
                 
                   <li >
-                    <a href="https://hkoenig2.github.io/systemische-beratung-darmstadt/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                    <a href="/systemische-beratung-darmstadt/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
                   </li>
               
               </ul>
@@ -408,7 +420,7 @@
             
               
                 <li >
-                  <a href="https://hkoenig2.github.io/systemische-beratung-darmstadt"  title=""></a>
+                  <a href="/systemische-beratung-darmstadt"  title=""></a>
                 </li>
             
               
@@ -451,7 +463,7 @@
 		
 
 
-<script src="https://hkoenig2.github.io/systemische-beratung-darmstadt/assets/js/javascript.min.js"></script>
+<script src="/systemische-beratung-darmstadt/assets/js/javascript.min.js"></script>
 
 
 

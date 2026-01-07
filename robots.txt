@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://hkoenig2.github.io/systemische-beratung-darmstadt/sitemap.xml
+Sitemap: /systemische-beratung-darmstadt/sitemap.xml
