@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="176.70872mm"
+   height="74.92675mm"
+   viewBox="0 0 176.70872 74.92675"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/henner/develop/website/assets/img/logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.60756173"
+     inkscape:cx="-237.83592"
+     inkscape:cy="179.40564"
+     inkscape:window-width="2014"
+     inkscape:window-height="936"
+     inkscape:window-x="82"
+     inkscape:window-y="364"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient260659">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop260655" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop260657" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient260629"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop260627" />
+    </linearGradient>
+    <rect
+       x="84.116486"
+       y="93.725006"
+       width="1025.7793"
+       height="427.04388"
+       id="rect6127" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient260659"
+       id="linearGradient260661"
+       x1="262.56909"
+       y1="429.2457"
+       x2="931.44458"
+       y2="429.2457"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-69.603695,-46.874158)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-1.4854933,-15.145717)"
+       id="text6125"
+       style="font-weight:bold;font-size:42.6667px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:center;white-space:pre;shape-inside:url(#rect6127);fill:#e6e6e6;stroke:#000000;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="266.64603"
+       y="0"
+       inkscape:export-filename="/home/henner/develop/website/assets/img/logo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="597.00684"
+         y="131.47464"
+         id="tspan271948">
+</tspan><tspan
+         x="597.00684"
+         y="184.80801"
+         id="tspan271950">
+</tspan><tspan
+         x="597.00684"
+         y="238.14139"
+         id="tspan271952">
+</tspan><tspan
+         x="597.00684"
+         y="291.47476"
+         id="tspan271954">
+</tspan><tspan
+         x="597.00684"
+         y="344.80813"
+         id="tspan271956">
+</tspan><tspan
+         x="584.16308"
+         y="398.14151"
+         id="tspan271958"> 
+</tspan><tspan
+         x="263.06909"
+         y="451.47488"
+         id="tspan271962"><tspan
+           style="opacity:1;fill:#cccccc;stroke:none"
+           id="tspan271960">   Raum für Perspektiven   </tspan></tspan></text>
+  </g>
+</svg>
