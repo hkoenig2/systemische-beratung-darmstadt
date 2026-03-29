@@ -146,7 +146,7 @@
 
             
             
-              <li><a  href="https://hkoenig2.github.io/systemische-beratung-darmstadt/einrichtungen/">Bildungseinrichtungen</a></li>
+              <li><a  href="https://hkoenig2.github.io/systemische-beratung-darmstadt/einrichtungen/">Institutionen</a></li>
               <li class="divider"></li>
 
             
